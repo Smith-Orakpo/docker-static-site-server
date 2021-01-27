@@ -1,2 +1,4 @@
 - set up dockerfile
 - set up docker-compose.yml
+- set up index.html file
+- set up css file
