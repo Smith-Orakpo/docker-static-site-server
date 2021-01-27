@@ -26,3 +26,11 @@ body {
 h1 {
   text-transform: capitalize;
 }
+
+@media (max-width: 760px) {
+  .container {
+    max-width: 80%;
+    margin: 0 auto;
+    text-align: center;
+  }
+}
